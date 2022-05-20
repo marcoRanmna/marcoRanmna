@@ -1,4 +1,4 @@
-### Welcome👋
+### Hey and welcome👋
 ### This is my profile page!
 
 <hr>
